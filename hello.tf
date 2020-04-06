@@ -1,4 +1,4 @@
 output "MESSAGE" {
-  value = "Hello World"
+  value = "Hello New World"
 }
 
